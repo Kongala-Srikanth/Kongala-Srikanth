@@ -1,6 +1,6 @@
 <div align = "center">
  💫 About Me:
-🌱 I’m currently learning Web Development.<br>👯 I’m looking to collaborate on YouTube.<br>💬 Ask me about Python Programming.<br>📫 How to reach me: DM me on LinkedIn.<br><br><br><br>
+🌱 I’m currently learning Web Development.<br>💬 Ask me about Python Programming.<br>📫 How to reach me: DM me on LinkedIn.<br><br><br><br>
 
 
 ## 🌐 Socials:<br>
